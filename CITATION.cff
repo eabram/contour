@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Abram
+    given-names: Ester
+    orcid: https://orcid.org/0000-0002-5119-0575
+title: "contour"
+version: 1.0.0
+identifiers:
+  - type: doi
+    value:  10.5072/zenodo.214583 
+date-released: 2025-05-06
